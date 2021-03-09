@@ -1,5 +1,4 @@
 # hackathon-test-doctor-read-white
 ## Read Button - White :white_heart:
 
-https://hackathon-read-white.herokuapp.com
-
+http://doctor-2.herokuapp.com
